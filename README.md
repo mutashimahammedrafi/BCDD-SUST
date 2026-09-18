@@ -23,7 +23,7 @@ BCDD-SUST/
 ├── train/
 │   ├── images/
 │   └── labels/
-├── val/
+├── valid/
 │   ├── images/
 │   └── labels/
 ├── test/
