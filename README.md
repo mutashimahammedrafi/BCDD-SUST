@@ -38,10 +38,9 @@ BCDD-SUST/
 - `images/`: Contains all images, split into train/val/test.
 - `labels/`: YOLO-format annotation files, split into train/val/test.
 - `data.yaml`: YOLO dataset configuration file.
-- `classes.txt`: List of the seven cell classes.
 - `annotation_protocol.pdf`: Manual annotation and quality-control protocol.
-- `README.md`: Dataset documentation.
-- `LICENSE`: Dataset license.
+- `image_metadata.xlsx`: Contain per image cell counts data
+- `metadata.xlsx`: Clinical and demographic data  mapped to slide samples
 
 ## Usage
 
