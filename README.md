@@ -30,7 +30,6 @@ BCDD-SUST/
 │   ├── images/
 │   └── labels/
 ├── data.yaml
-├── classes.txt
 ├── annotation_protocol.pdf
 └── metadata.xlsx
 ```
