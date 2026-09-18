@@ -30,7 +30,7 @@ BCDD-SUST/
 │   ├── images/
 │   └── labels/
 ├── data.yaml
-├── annotation_protocol.pdf
+├── manual_annotation_protocol.pdf
 ├── image_metadata.xlsx
 └── metadata.xlsx
 ```
@@ -38,7 +38,7 @@ BCDD-SUST/
 - `images/`: Contains all images, split into train/val/test.
 - `labels/`: YOLO-format annotation files, split into train/val/test.
 - `data.yaml`: YOLO dataset configuration file.
-- `annotation_protocol.pdf`: Manual annotation and quality-control protocol.
+- `manual_annotation_protocol.pdf`: Manual annotation and quality-control protocol.
 - `image_metadata.xlsx`: Contains per-image cell count data
 - `metadata.xlsx`: Clinical and demographic data  mapped to slide samples
 
