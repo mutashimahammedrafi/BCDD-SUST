@@ -52,6 +52,9 @@ Potential applications include:
 - Digital hematology analysis
 - AI-based dengue research
 
+## Citing the BCDD-SUST Dataset
+If you use the BCDD-SUST dataset in your research, please cite the dataset.
+
 ## License
 
 This dataset is licensed under the MIT License.
