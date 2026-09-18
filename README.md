@@ -55,4 +55,4 @@ Potential applications include:
 
 ## License
 
-This dataset is released for academic and non-commercial use.
+This dataset is licensed under the MIT License.
